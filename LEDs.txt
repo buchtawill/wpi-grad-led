@@ -1,0 +1,6 @@
+LED array is 19x7
+38 blank spots
+
+-->95 LEDs per board
+
+If using 3mm TH LEDs, 4mm per led, 
