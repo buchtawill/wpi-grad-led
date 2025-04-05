@@ -145,6 +145,7 @@ def place_leds(brd_path:str, all_leds:np.ndarray, start:tuple, spacing:tuple):
         raise RuntimeError("No <elements> section found in board file.")
     
     count_updated = 0
+    count_labels_moved = 0
     
     for y_idx in range(len(all_leds)):
         for x_idx in range(len(all_leds[0])):
@@ -153,7 +154,7 @@ def place_leds(brd_path:str, all_leds:np.ndarray, start:tuple, spacing:tuple):
             if(all_leds[y_idx, x_idx] == 1):
                 led_name = 'D' + INT_TO_CHAR[y_idx] + f'{x_idx+1}'
                 coordinates = diode_name_to_xy_mm(led_name, start, spacing)
-                print(f"{led_name:>4} : ({coordinates[0]:>2}, {coordinates[1]:>2})")
+                # print(f"{led_name:>4} : ({coordinates[0]:>2}, {coordinates[1]:>2})")
                 
                 # TODO: find led_name in the board file, and update the coordinate with coordinates[0] and coordinates[1]
                 # Search for the matching <element> tag
@@ -165,14 +166,15 @@ def place_leds(brd_path:str, all_leds:np.ndarray, start:tuple, spacing:tuple):
                         break
                 else:
                     print(f"Warning: LED {led_name} not found in board.")
-   
+               
     print(f"Updated {count_updated} LED positions.")
     
     # Write back to a new board file
-    new_brd_path = brd_path.replace(".brd", "_updated.brd")
-    tree.write(new_brd_path)
-    print(f"Saved updated board to {new_brd_path}")
-   
+    # new_brd_path = brd_path.replace(".brd", "_updated.brd")
+    # tree.write(new_brd_path)
+    # print(f"Saved updated board to {new_brd_path}")
+    tree.write(brd_path)
+    
 if __name__ == '__main__':
     
     # Convert data
@@ -190,9 +192,9 @@ if __name__ == '__main__':
     # All coordinates in mm
     # Top left coordinates of DA1
     top_left = (3, 44) # x, y from bottom left of PCB
-    spacing = (5,5)    
+    spacing = (4.5,4.5)    
     place_leds('./reva.brd', merged_leds, top_left, spacing)
-    
+    #7.2, 44.9
     
 
     # Create plots of the arrays
