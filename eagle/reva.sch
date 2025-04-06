@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="17" fill="1" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="18" fill="1" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="19" fill="1" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="25" fill="1" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="26" fill="1" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="27" fill="1" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="28" fill="1" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="29" fill="1" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="30" fill="1" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="20" fill="1" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="21" fill="1" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="22" fill="1" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
+<layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
+<layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
+<layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
+<layer number="6" name="Route6" color="25" fill="1" visible="no" active="no"/>
+<layer number="7" name="Route7" color="26" fill="1" visible="no" active="no"/>
+<layer number="8" name="Route8" color="27" fill="1" visible="no" active="no"/>
+<layer number="9" name="Route9" color="28" fill="1" visible="no" active="no"/>
+<layer number="10" name="Route10" color="29" fill="1" visible="no" active="no"/>
+<layer number="11" name="Route11" color="30" fill="1" visible="no" active="no"/>
+<layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
+<layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
+<layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,19 +53,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -236,6 +236,17 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="-5" y1="16" x2="-1" y2="16" width="0.4064" layer="51"/>
 <wire x1="-1" y1="16" x2="-1" y2="11" width="0.4064" layer="51"/>
 </package>
+<package name="CR240_CASE">
+<pad name="NEG" x="-5.2" y="0" drill="1.3" diameter="2.4"/>
+<pad name="POS" x="15.1" y="0" drill="1.3" diameter="2.4"/>
+<circle x="0" y="0" radius="13.25" width="0.254" layer="21"/>
+<wire x1="15" y1="-2" x2="15" y2="-4" width="0.254" layer="21"/>
+<wire x1="14" y1="-3" x2="16" y2="-3" width="0.254" layer="21"/>
+<wire x1="-10" y1="0" x2="-8" y2="0" width="0.254" layer="21"/>
+<wire x1="17" y1="5" x2="12.3" y2="5" width="0.254" layer="21"/>
+<wire x1="17" y1="5" x2="17" y2="-5" width="0.254" layer="21"/>
+<wire x1="17" y1="-5" x2="12.3" y2="-5" width="0.254" layer="21"/>
+</package>
 </packages>
 <symbols>
 <symbol name="XL_Z2727RGBA-SG">
@@ -303,6 +314,18 @@ DIN A3, landscape with location and doc. field</description>
 <pin name="C" x="5.08" y="0" visible="off" length="point" rot="R180"/>
 <pin name="T2" x="5.08" y="-2.54" visible="off" length="point" rot="R180"/>
 </symbol>
+<symbol name="BATT_2450">
+<wire x1="-2.54" y1="0" x2="0" y2="0" width="0.254" layer="94"/>
+<wire x1="0" y1="0" x2="2.54" y2="0" width="0.254" layer="94"/>
+<wire x1="-1.016" y1="-0.762" x2="1.016" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="-1.778" x2="2.54" y2="-1.778" width="0.254" layer="94"/>
+<wire x1="-1.016" y1="-2.54" x2="0" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.54" x2="1.016" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="0" x2="0" y2="2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.54" x2="0" y2="-5.08" width="0.254" layer="94"/>
+<pin name="B+" x="0" y="2.54" length="point"/>
+<pin name="B-" x="0" y="-5.08" length="point"/>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="RGB_LED_XL" prefix="D">
@@ -335,6 +358,22 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="C" pad="COM"/>
 <connect gate="G$1" pin="T1" pad="L"/>
 <connect gate="G$1" pin="T2" pad="R"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="CR2450" prefix="BAT">
+<gates>
+<gate name="G$1" symbol="BATT_2450" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="CR240_CASE">
+<connects>
+<connect gate="G$1" pin="B+" pad="POS"/>
+<connect gate="G$1" pin="B-" pad="NEG"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -6810,1077 +6849,6 @@ wave soldering</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="Battery_Holder" urn="urn:adsk.eagle:library:27510219">
-<description>&lt;b&gt;Battery- Clips, contacts, holders</description>
-<packages>
-<package name="BAT_2996" urn="urn:adsk.eagle:footprint:27510230/3" library_version="15">
-<smd name="P1" x="-7.3" y="0.69" dx="3.18" dy="3.18" layer="1"/>
-<smd name="N" x="0" y="0.69" dx="3.96" dy="3.96" layer="1"/>
-<smd name="P" x="7.3" y="0.69" dx="3.18" dy="3.18" layer="1"/>
-<circle x="0" y="0.69" radius="5.3" width="0.12" layer="21"/>
-<circle x="0" y="0.69" radius="5.3" width="0.12" layer="51"/>
-<wire x1="-9.275" y1="6.16" x2="9.275" y2="6.16" width="0.12" layer="51"/>
-<wire x1="9.275" y1="6.16" x2="9.275" y2="-6.16" width="0.12" layer="51"/>
-<wire x1="9.275" y1="-6.16" x2="-9.275" y2="-6.16" width="0.12" layer="51"/>
-<wire x1="-9.275" y1="-6.16" x2="-9.275" y2="6.16" width="0.12" layer="51"/>
-<wire x1="-9.906" y1="1.016" x2="-9.906" y2="0.508" width="0.12" layer="21"/>
-<wire x1="-10.16" y1="0.762" x2="-9.652" y2="0.762" width="0.12" layer="21"/>
-<wire x1="9.906" y1="1.016" x2="9.906" y2="0.508" width="0.12" layer="21"/>
-<wire x1="9.652" y1="0.762" x2="10.16" y2="0.762" width="0.12" layer="21"/>
-<wire x1="-9.275" y1="6.16" x2="-5.08" y2="6.16" width="0.12" layer="21"/>
-<wire x1="5.08" y1="6.16" x2="9.275" y2="6.16" width="0.12" layer="21"/>
-<wire x1="9.275" y1="6.16" x2="9.275" y2="3.302" width="0.12" layer="21"/>
-<wire x1="9.275" y1="-1.778" x2="9.275" y2="-6.16" width="0.12" layer="21"/>
-<wire x1="9.275" y1="-6.16" x2="-9.275" y2="-6.16" width="0.12" layer="21"/>
-<wire x1="-9.275" y1="-6.16" x2="-9.275" y2="-1.778" width="0.12" layer="21"/>
-<wire x1="-9.275" y1="3.302" x2="-9.275" y2="6.16" width="0.12" layer="21"/>
-<text x="0" y="7.62" size="1.27" layer="25" align="top-center">&gt;NAME</text>
-<text x="0" y="-7.62" size="1.27" layer="27" align="bottom-center">&gt;VALUE</text>
-</package>
-<package name="BAT_3000" urn="urn:adsk.eagle:footprint:27510224/3" library_version="15">
-<smd name="P1" x="-7.87" y="0.69" dx="3.18" dy="3.18" layer="1"/>
-<smd name="N" x="0" y="0.69" dx="3.96" dy="3.96" layer="1"/>
-<smd name="P" x="7.87" y="0.69" dx="3.18" dy="3.18" layer="1"/>
-<circle x="0" y="0.69" radius="6" width="0.12" layer="21"/>
-<circle x="0" y="0.69" radius="6" width="0.12" layer="51"/>
-<wire x1="-9.65" y1="6.16" x2="9.65" y2="6.16" width="0.12" layer="51"/>
-<wire x1="9.65" y1="6.16" x2="9.65" y2="-6.16" width="0.12" layer="51"/>
-<wire x1="9.65" y1="-6.16" x2="-9.65" y2="-6.16" width="0.12" layer="51"/>
-<wire x1="-9.65" y1="-6.16" x2="-9.65" y2="6.16" width="0.12" layer="51"/>
-<wire x1="-10.414" y1="1.016" x2="-10.414" y2="0.508" width="0.12" layer="21"/>
-<wire x1="-10.668" y1="0.762" x2="-10.16" y2="0.762" width="0.12" layer="21"/>
-<wire x1="10.414" y1="1.016" x2="10.414" y2="0.508" width="0.12" layer="21"/>
-<wire x1="10.16" y1="0.762" x2="10.668" y2="0.762" width="0.12" layer="21"/>
-<wire x1="-9.65" y1="6.16" x2="-5.334" y2="6.16" width="0.12" layer="21"/>
-<wire x1="5.334" y1="6.16" x2="9.65" y2="6.16" width="0.12" layer="21"/>
-<wire x1="9.65" y1="6.16" x2="9.65" y2="3.302" width="0.12" layer="21"/>
-<wire x1="9.65" y1="-1.778" x2="9.65" y2="-6.16" width="0.12" layer="21"/>
-<wire x1="9.65" y1="-6.16" x2="-9.65" y2="-6.16" width="0.12" layer="21"/>
-<wire x1="-9.65" y1="-6.16" x2="-9.65" y2="-1.778" width="0.12" layer="21"/>
-<wire x1="-9.65" y1="3.302" x2="-9.65" y2="6.16" width="0.12" layer="21"/>
-<text x="0" y="7.62" size="1.27" layer="25" align="center">&gt;NAME</text>
-<text x="0" y="-7.62" size="1.27" layer="27" align="bottom-center">&gt;VALUE</text>
-</package>
-<package name="BAT_3002" urn="urn:adsk.eagle:footprint:27510228/4" library_version="15">
-<smd name="P1" x="-12.825" y="0.65" dx="5.08" dy="5.08" layer="1"/>
-<smd name="N" x="0" y="0.65" dx="3.96" dy="3.96" layer="1"/>
-<smd name="P" x="12.825" y="0.65" dx="5.08" dy="5.08" layer="1"/>
-<circle x="0" y="0.65" radius="10" width="0.12" layer="21"/>
-<circle x="0" y="0.65" radius="10" width="0.12" layer="51"/>
-<wire x1="-15.555" y1="10.055" x2="15.555" y2="10.055" width="0.12" layer="51"/>
-<wire x1="15.555" y1="10.055" x2="15.555" y2="-10.055" width="0.12" layer="51"/>
-<wire x1="15.555" y1="-10.055" x2="-15.555" y2="-10.055" width="0.12" layer="51"/>
-<wire x1="-15.555" y1="-10.055" x2="-15.555" y2="10.055" width="0.12" layer="51"/>
-<wire x1="16.002" y1="0.508" x2="17.018" y2="0.508" width="0.12" layer="21"/>
-<wire x1="7.62" y1="10.055" x2="15.555" y2="10.055" width="0.12" layer="21"/>
-<wire x1="15.555" y1="-2.54" x2="15.555" y2="-10.055" width="0.12" layer="21"/>
-<wire x1="15.555" y1="-10.055" x2="-15.555" y2="-10.055" width="0.12" layer="21"/>
-<wire x1="-15.555" y1="-10.055" x2="-15.555" y2="-2.54" width="0.12" layer="21"/>
-<wire x1="15.555" y1="10.055" x2="15.555" y2="3.81" width="0.12" layer="21"/>
-<wire x1="-15.555" y1="10.055" x2="-7.305" y2="10.055" width="0.12" layer="21"/>
-<wire x1="-15.555" y1="3.81" x2="-15.555" y2="10.055" width="0.12" layer="21"/>
-<wire x1="16.51" y1="1.016" x2="16.51" y2="0" width="0.12" layer="21"/>
-<wire x1="-17.018" y1="0.762" x2="-16.002" y2="0.762" width="0.12" layer="21"/>
-<wire x1="-16.51" y1="1.27" x2="-16.51" y2="0.254" width="0.12" layer="21"/>
-<text x="0" y="11.43" size="1.27" layer="25" align="center">&gt;NAME</text>
-<text x="0" y="-11.43" size="1.27" layer="27" align="bottom-center">&gt;VALUE</text>
-</package>
-<package name="BAT_3004" urn="urn:adsk.eagle:footprint:27510223/3" library_version="15">
-<smd name="P1" x="-14.465" y="1.485" dx="5.08" dy="5.08" layer="1"/>
-<smd name="N" x="0" y="1.485" dx="3.96" dy="3.96" layer="1"/>
-<smd name="P" x="14.465" y="1.485" dx="5.08" dy="5.08" layer="1"/>
-<circle x="0" y="1.485" radius="11.5" width="0.12" layer="21"/>
-<circle x="0" y="1.485" radius="11.5" width="0.12" layer="51"/>
-<wire x1="-17.195" y1="10.69" x2="17.195" y2="10.69" width="0.12" layer="51"/>
-<wire x1="17.195" y1="10.69" x2="17.195" y2="-10.69" width="0.12" layer="51"/>
-<wire x1="17.195" y1="-10.69" x2="-17.195" y2="-10.69" width="0.12" layer="51"/>
-<wire x1="-17.195" y1="-10.69" x2="-17.195" y2="10.69" width="0.12" layer="51"/>
-<wire x1="-17.195" y1="10.69" x2="-8.89" y2="10.69" width="0.12" layer="21"/>
-<wire x1="8.89" y1="10.69" x2="17.195" y2="10.69" width="0.12" layer="21"/>
-<wire x1="17.195" y1="10.69" x2="17.195" y2="5.08" width="0.12" layer="21"/>
-<wire x1="-17.195" y1="5.08" x2="-17.195" y2="10.69" width="0.12" layer="21"/>
-<wire x1="17.195" y1="-10.69" x2="-17.195" y2="-10.69" width="0.12" layer="21"/>
-<wire x1="-18.796" y1="1.524" x2="-17.78" y2="1.524" width="0.12" layer="21"/>
-<wire x1="-18.288" y1="2.032" x2="-18.288" y2="1.016" width="0.12" layer="21"/>
-<wire x1="17.78" y1="1.524" x2="18.796" y2="1.524" width="0.12" layer="21"/>
-<wire x1="18.288" y1="2.032" x2="18.288" y2="1.016" width="0.12" layer="21"/>
-<wire x1="-17.195" y1="-10.69" x2="-17.195" y2="-2.032" width="0.12" layer="21"/>
-<wire x1="17.195" y1="-2.032" x2="17.195" y2="-10.69" width="0.12" layer="21"/>
-<text x="0" y="13.97" size="1.27" layer="25" align="center">&gt;NAME</text>
-<text x="0" y="-11.43" size="1.27" layer="27" align="center">&gt;VALUE</text>
-</package>
-<package name="BAT_3006" urn="urn:adsk.eagle:footprint:27510225/3" library_version="15">
-<smd name="P1" x="-15.24" y="1.19" dx="5.08" dy="5.08" layer="1"/>
-<smd name="N" x="0" y="1.19" dx="3.96" dy="3.96" layer="1"/>
-<smd name="P" x="15.24" y="1.19" dx="5.08" dy="5.08" layer="1"/>
-<circle x="0" y="1.19" radius="12" width="0.12" layer="21"/>
-<circle x="0" y="1.19" radius="12" width="0.12" layer="51"/>
-<wire x1="-17.97" y1="11.785" x2="17.97" y2="11.785" width="0.12" layer="51"/>
-<wire x1="17.97" y1="11.785" x2="17.97" y2="-11.785" width="0.12" layer="51"/>
-<wire x1="-17.97" y1="-11.785" x2="-17.97" y2="11.785" width="0.12" layer="51"/>
-<wire x1="-17.97" y1="4.572" x2="-17.97" y2="11.785" width="0.12" layer="21"/>
-<wire x1="-17.97" y1="-11.785" x2="17.97" y2="-11.785" width="0.12" layer="21"/>
-<wire x1="-19.558" y1="1.27" x2="-18.542" y2="1.27" width="0.12" layer="21"/>
-<wire x1="-19.05" y1="1.778" x2="-19.05" y2="0.762" width="0.12" layer="21"/>
-<wire x1="18.542" y1="1.27" x2="19.558" y2="1.27" width="0.12" layer="21"/>
-<wire x1="19.05" y1="1.778" x2="19.05" y2="0.762" width="0.12" layer="21"/>
-<wire x1="17.97" y1="-11.785" x2="17.97" y2="-2.54" width="0.12" layer="21"/>
-<wire x1="-17.97" y1="-2.54" x2="-17.97" y2="-11.785" width="0.12" layer="21"/>
-<wire x1="17.97" y1="4.572" x2="17.97" y2="11.785" width="0.12" layer="21"/>
-<wire x1="9.398" y1="11.785" x2="17.97" y2="11.785" width="0.12" layer="21"/>
-<wire x1="-17.97" y1="11.785" x2="-9.208" y2="11.785" width="0.12" layer="21"/>
-<text x="0" y="13.97" size="1.27" layer="25" align="center">&gt;NAME</text>
-<text x="0" y="-12.7" size="1.27" layer="27" align="center">&gt;VALUE</text>
-</package>
-<package name="BAT_3008" urn="urn:adsk.eagle:footprint:27510227/3" library_version="15">
-<smd name="P1" x="-15.24" y="1.515" dx="5.08" dy="5.08" layer="1"/>
-<smd name="N" x="0" y="1.515" dx="3.96" dy="3.96" layer="1"/>
-<smd name="P" x="15.24" y="1.515" dx="5.08" dy="5.08" layer="1"/>
-<circle x="0" y="1.515" radius="12.25" width="0.12" layer="51"/>
-<circle x="0" y="1.515" radius="12.25" width="0.12" layer="21"/>
-<wire x1="-17.97" y1="11.43" x2="17.97" y2="11.43" width="0.12" layer="51"/>
-<wire x1="17.97" y1="11.43" x2="17.97" y2="-11.43" width="0.12" layer="51"/>
-<wire x1="17.97" y1="-11.43" x2="-17.97" y2="-11.43" width="0.12" layer="51"/>
-<wire x1="-17.97" y1="-11.43" x2="-17.97" y2="11.43" width="0.12" layer="51"/>
-<wire x1="-17.97" y1="5.08" x2="-17.97" y2="11.43" width="0.12" layer="21"/>
-<wire x1="-17.97" y1="-11.43" x2="17.97" y2="-11.43" width="0.12" layer="21"/>
-<wire x1="-19.558" y1="1.524" x2="-18.542" y2="1.524" width="0.12" layer="21"/>
-<wire x1="-19.05" y1="2.032" x2="-19.05" y2="1.016" width="0.12" layer="21"/>
-<wire x1="18.542" y1="1.524" x2="19.558" y2="1.524" width="0.12" layer="21"/>
-<wire x1="19.05" y1="2.032" x2="19.05" y2="1.016" width="0.12" layer="21"/>
-<wire x1="17.97" y1="-11.43" x2="17.97" y2="-2.794" width="0.12" layer="21"/>
-<wire x1="-17.97" y1="-2.794" x2="-17.97" y2="-11.43" width="0.12" layer="21"/>
-<wire x1="17.97" y1="5.08" x2="17.97" y2="11.43" width="0.12" layer="21"/>
-<wire x1="9.398" y1="11.43" x2="17.97" y2="11.43" width="0.12" layer="21"/>
-<wire x1="-17.97" y1="11.43" x2="-9.208" y2="11.43" width="0.12" layer="21"/>
-<text x="0" y="15.24" size="1.27" layer="25" align="top-center">&gt;NAME</text>
-<text x="0" y="-12.7" size="1.27" layer="27" align="center">&gt;VALUE</text>
-</package>
-<package name="BAT_3010" urn="urn:adsk.eagle:footprint:27510226/3" library_version="15">
-<smd name="P1" x="-14.465" y="1.65" dx="5.08" dy="5.08" layer="1"/>
-<smd name="N" x="0" y="1.65" dx="3.96" dy="3.96" layer="1"/>
-<smd name="P" x="14.465" y="1.65" dx="5.08" dy="5.08" layer="1"/>
-<circle x="0" y="1.65" radius="11.5" width="0.12" layer="21"/>
-<circle x="0" y="1.65" radius="11.5" width="0.12" layer="51"/>
-<wire x1="-17.195" y1="10.525" x2="17.195" y2="10.525" width="0.12" layer="51"/>
-<wire x1="17.195" y1="10.525" x2="17.195" y2="-10.525" width="0.12" layer="51"/>
-<wire x1="17.195" y1="-10.525" x2="-17.195" y2="-10.525" width="0.12" layer="51"/>
-<wire x1="-17.195" y1="-10.525" x2="-17.195" y2="10.525" width="0.12" layer="51"/>
-<wire x1="-17.195" y1="5.08" x2="-17.195" y2="10.525" width="0.12" layer="21"/>
-<wire x1="-17.195" y1="-10.525" x2="17.195" y2="-10.525" width="0.12" layer="21"/>
-<wire x1="-18.796" y1="1.524" x2="-17.78" y2="1.524" width="0.12" layer="21"/>
-<wire x1="-18.288" y1="2.032" x2="-18.288" y2="1.016" width="0.12" layer="21"/>
-<wire x1="17.78" y1="1.524" x2="18.796" y2="1.524" width="0.12" layer="21"/>
-<wire x1="18.288" y1="2.032" x2="18.288" y2="1.016" width="0.12" layer="21"/>
-<wire x1="17.195" y1="-10.525" x2="17.195" y2="-2.032" width="0.12" layer="21"/>
-<wire x1="-17.195" y1="-2.54" x2="-17.195" y2="-10.525" width="0.12" layer="21"/>
-<wire x1="17.195" y1="5.08" x2="17.195" y2="10.525" width="0.12" layer="21"/>
-<wire x1="10.16" y1="10.525" x2="17.195" y2="10.525" width="0.12" layer="21"/>
-<wire x1="-17.195" y1="10.525" x2="-8.446" y2="10.525" width="0.12" layer="21"/>
-<text x="0" y="13.97" size="1.27" layer="25" align="center">&gt;NAME</text>
-<text x="0" y="-11.43" size="1.27" layer="27" align="center">&gt;VALUE</text>
-</package>
-<package name="BAT_3012" urn="urn:adsk.eagle:footprint:27510222/3" library_version="15">
-<smd name="P1" x="-10.02" y="1.19" dx="3.18" dy="3.18" layer="1"/>
-<smd name="N" x="0" y="1.19" dx="3.96" dy="3.96" layer="1"/>
-<smd name="P" x="10.02" y="1.19" dx="3.18" dy="3.18" layer="1"/>
-<circle x="0" y="1.19" radius="8" width="0.12" layer="21"/>
-<circle x="0" y="1.19" radius="8" width="0.12" layer="51"/>
-<wire x1="-11.735" y1="7.66" x2="11.735" y2="7.66" width="0.12" layer="51"/>
-<wire x1="11.735" y1="7.66" x2="11.735" y2="-7.66" width="0.12" layer="51"/>
-<wire x1="11.735" y1="-7.66" x2="-11.735" y2="-7.66" width="0.12" layer="51"/>
-<wire x1="-11.735" y1="-7.66" x2="-11.735" y2="7.66" width="0.12" layer="51"/>
-<wire x1="-11.735" y1="3.81" x2="-11.735" y2="7.66" width="0.12" layer="21"/>
-<wire x1="-11.735" y1="-7.66" x2="11.735" y2="-7.66" width="0.12" layer="21"/>
-<wire x1="-13.462" y1="1.016" x2="-12.446" y2="1.016" width="0.12" layer="21"/>
-<wire x1="-12.954" y1="1.524" x2="-12.954" y2="0.508" width="0.12" layer="21"/>
-<wire x1="12.446" y1="1.27" x2="13.462" y2="1.27" width="0.12" layer="21"/>
-<wire x1="12.954" y1="1.778" x2="12.954" y2="0.762" width="0.12" layer="21"/>
-<wire x1="11.735" y1="-7.66" x2="11.735" y2="-1.778" width="0.12" layer="21"/>
-<wire x1="-11.735" y1="-1.778" x2="-11.735" y2="-7.66" width="0.12" layer="21"/>
-<wire x1="-11.735" y1="7.66" x2="-6.35" y2="7.66" width="0.12" layer="21"/>
-<wire x1="6.35" y1="7.66" x2="11.724" y2="7.66" width="0.12" layer="21"/>
-<wire x1="11.724" y1="7.66" x2="11.724" y2="3.81" width="0.12" layer="21"/>
-<text x="0" y="10.16" size="1.27" layer="25" align="center">&gt;NAME</text>
-<text x="0" y="-8.89" size="1.27" layer="27" align="center">&gt;VALUE</text>
-</package>
-</packages>
-<packages3d>
-<package3d name="BAT_2996" urn="urn:adsk.eagle:package:27510251/3" type="model" library_version="15">
-<packageinstances>
-<packageinstance name="BAT_2996"/>
-</packageinstances>
-</package3d>
-<package3d name="BAT_3000" urn="urn:adsk.eagle:package:27510248/3" type="model" library_version="15">
-<packageinstances>
-<packageinstance name="BAT_3000"/>
-</packageinstances>
-</package3d>
-<package3d name="BAT_3002" urn="urn:adsk.eagle:package:27510254/4" type="model" library_version="15">
-<packageinstances>
-<packageinstance name="BAT_3002"/>
-</packageinstances>
-</package3d>
-<package3d name="BAT_3004" urn="urn:adsk.eagle:package:27510246/3" type="model" library_version="15">
-<packageinstances>
-<packageinstance name="BAT_3004"/>
-</packageinstances>
-</package3d>
-<package3d name="BAT_3006" urn="urn:adsk.eagle:package:27510247/3" type="model" library_version="15">
-<packageinstances>
-<packageinstance name="BAT_3006"/>
-</packageinstances>
-</package3d>
-<package3d name="BAT_3008" urn="urn:adsk.eagle:package:27510245/3" type="model" library_version="15">
-<packageinstances>
-<packageinstance name="BAT_3008"/>
-</packageinstances>
-</package3d>
-<package3d name="BAT_3010" urn="urn:adsk.eagle:package:27510240/3" type="model" library_version="15">
-<packageinstances>
-<packageinstance name="BAT_3010"/>
-</packageinstances>
-</package3d>
-<package3d name="BAT_3012" urn="urn:adsk.eagle:package:27510241/3" type="model" library_version="15">
-<packageinstances>
-<packageinstance name="BAT_3012"/>
-</packageinstances>
-</package3d>
-</packages3d>
-<symbols>
-<symbol name="BAT-3N" urn="urn:adsk.eagle:symbol:27510220/3" library_version="15">
-<wire x1="-3.048" y1="2.54" x2="-3.048" y2="0" width="0.1524" layer="94"/>
-<wire x1="-3.048" y1="0" x2="-3.048" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="-1.778" y1="1.27" x2="-1.778" y2="-1.27" width="0.1524" layer="94"/>
-<wire x1="-5.715" y1="2.54" x2="-5.715" y2="1.27" width="0.1524" layer="94"/>
-<wire x1="-6.35" y1="1.905" x2="-5.08" y2="1.905" width="0.1524" layer="94"/>
-<wire x1="-0.508" y1="2.54" x2="-0.508" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="0.762" y1="1.27" x2="0.762" y2="0" width="0.1524" layer="94"/>
-<wire x1="0.762" y1="0" x2="0.762" y2="-1.27" width="0.1524" layer="94"/>
-<wire x1="2.54" y1="1.905" x2="3.81" y2="1.905" width="0.1524" layer="94"/>
-<wire x1="2.54" y1="0" x2="0.762" y2="0" width="0.1524" layer="94"/>
-<wire x1="-5.08" y1="0" x2="-3.048" y2="0" width="0.1524" layer="94"/>
-<pin name="+" x="-7.62" y="0" visible="off" length="short"/>
-<pin name="-" x="5.08" y="0" visible="off" length="short" rot="R180"/>
-<text x="0" y="5.08" size="1.778" layer="95" align="top-center">&gt;NAME</text>
-<text x="0" y="-5.08" size="1.778" layer="96" align="bottom-center">&gt;VALUE</text>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="COIN-CELL-SMT-3P-?-" urn="urn:adsk.eagle:component:27510273/8" prefix="BT" library_version="15">
-<description>Battery Holders - Coin Cell SMD - CR2032 | LR44 | SR44 etc.
-
-&lt;p&gt;Reference: &lt;a href="https://docs.rs-online.com/b397/0900766b813ec0e2.pdf"&gt;Datasheet&lt;/a&gt;</description>
-<gates>
-<gate name="G$1" symbol="BAT-3N" x="0" y="0"/>
-</gates>
-<devices>
-<device name="2996" package="BAT_2996">
-<connects>
-<connect gate="G$1" pin="+" pad="P P1"/>
-<connect gate="G$1" pin="-" pad="N"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:27510251/3"/>
-</package3dinstances>
-<technologies>
-<technology name="303">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="11.6mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p7.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 11.6mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="2996" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="303" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="357">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="11.6mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p7.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 11.6mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="2996" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="357" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="G-13">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="11.6mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p7.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 11.6mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="2996" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="G-13" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="LR44">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="11.6mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p7.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 11.6mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="2996" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="LR44" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="MS76">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="11.6mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p7.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 11.6mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="2996" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="MS76" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="PX76A">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="11.6mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p7.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 11.6mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="2996" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="PX76A" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="SR44">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="11.6mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p7.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 11.6mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="2996" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="SR44" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="V313">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="11.6mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p7.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 11.6mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="2996" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="V313" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="3000" package="BAT_3000">
-<connects>
-<connect gate="G$1" pin="+" pad="P P1"/>
-<connect gate="G$1" pin="-" pad="N"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:27510248/3"/>
-</package3dinstances>
-<technologies>
-<technology name="BR1216">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="12mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 12.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3000" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1216" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="BR1220">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="12mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 12.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3000" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1220" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="BR1225">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="12mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 12.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3000" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1225" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CL1220">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="12mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 12.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3000" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1220" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR1216">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="12mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 12.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3000" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1216" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR1220">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="12mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 12.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3000" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1220" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="3002" package="BAT_3002">
-<connects>
-<connect gate="G$1" pin="+" pad="P P1"/>
-<connect gate="G$1" pin="-" pad="N"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:27510254/4"/>
-</package3dinstances>
-<technologies>
-<technology name="BR2016">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2016" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="BR2020">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2020" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="BR2025">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2025" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CL2020">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2020" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR2016">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2016" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR2025">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2025" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR2032">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2032" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="DL2016">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2016" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="DL2025">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2025" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="DL2032">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2032" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="DR2032">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="20mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 20.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3002" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2032" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="3004" package="BAT_3004">
-<connects>
-<connect gate="G$1" pin="+" pad="P P1"/>
-<connect gate="G$1" pin="-" pad="N"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:27510246/3"/>
-</package3dinstances>
-<technologies>
-<technology name="BR2320">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="23mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 23.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3004" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2320" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="BR2325">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="23mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 23.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3004" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2325" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CL2330">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="23mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 23.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3004" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2330" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR2320">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="23mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 23.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3004" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2320" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR2325">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="23mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 23.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3004" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2325" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="DL2325">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="23mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 23.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3004" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2325" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="3006" package="BAT_3006">
-<connects>
-<connect gate="G$1" pin="+" pad="P P1"/>
-<connect gate="G$1" pin="-" pad="N"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:27510247/3"/>
-</package3dinstances>
-<technologies>
-<technology name="CR2430">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="24mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 24mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3006" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2430" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="DL2430">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="24mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 24mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3006" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2430" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="3008" package="BAT_3008">
-<connects>
-<connect gate="G$1" pin="+" pad="P P1"/>
-<connect gate="G$1" pin="-" pad="N"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:27510245/3"/>
-</package3dinstances>
-<technologies>
-<technology name="CR2450">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="24mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 24mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3008" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2450" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="DL2450">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="24mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 24mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3008" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2450" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="3010" package="BAT_3010">
-<connects>
-<connect gate="G$1" pin="+" pad="P P1"/>
-<connect gate="G$1" pin="-" pad="N"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:27510240/3"/>
-</package3dinstances>
-<technologies>
-<technology name="CR2354">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="23mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 23.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3010" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2354" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="DL2354">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="23mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 23.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3010" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="2354" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="3012" package="BAT_3012">
-<connects>
-<connect gate="G$1" pin="+" pad="P P1"/>
-<connect gate="G$1" pin="-" pad="N"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:27510241/3"/>
-</package3dinstances>
-<technologies>
-<technology name="BR1616">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="16mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 16.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3012" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1616" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR1612">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="16mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 16.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3012" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1612" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR1616">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="16mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 16.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3012" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1616" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR1620">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="16mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 16.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3012" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1620" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-<technology name="CR1632">
-<attribute name="CATEGORY" value="Battery Holders" constant="no"/>
-<attribute name="CELL_DIAMETER" value="16mm" constant="no"/>
-<attribute name="DATASHEET" value="https://www.keyelco.com/userAssets/file/M65p9.pdf" constant="no"/>
-<attribute name="DESCRIPTION" value="Battery Retainer Coin 16.0mm 1 Cell SMD (SMT) Tab" constant="no"/>
-<attribute name="MANUFACTURER" value="Keystone Electronics" constant="no"/>
-<attribute name="MPN" value="3012" constant="no"/>
-<attribute name="OPERATING_TEMPERATURE" value="NA" constant="no"/>
-<attribute name="PACKAGE_SIZE" value="1632" constant="no"/>
-<attribute name="PACKAGE_TYPE" value="Surface Mount" constant="no"/>
-<attribute name="PART_STATUS" value="Active" constant="no"/>
-<attribute name="ROHS" value="Compliant" constant="no"/>
-<attribute name="SERIES" value="NA" constant="no"/>
-<attribute name="SUBCATEGORY" value="Coin Cell Holder" constant="no"/>
-<attribute name="THERMALLOSS" value="" constant="no"/>
-<attribute name="TYPE" value="Retainer" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="TPS63001DRCR">
 <packages>
 <package name="VREG_V62/16624-01YE">
@@ -11249,7 +10217,6 @@ type 0309, grid 2.5 mm</description>
 <part name="R107" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:6240564/1" value="4k7"/>
 <part name="P+101" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="FRAME2" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A3L-LOC" device=""/>
-<part name="BT1" library="Battery_Holder" library_urn="urn:adsk.eagle:library:27510219" deviceset="COIN-CELL-SMT-3P-?-" device="3008" package3d_urn="urn:adsk.eagle:package:27510245/3" technology="CR2450" value="3P-3008-CR2450"/>
 <part name="PWR" library="flashing_ece_2025" deviceset="SWITCH-BRUH" device=""/>
 <part name="GND10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="U1" library="TPS63001DRCR" deviceset="TPS63001DRCR" device="" value="TPS63002DRCR"/>
@@ -11276,6 +10243,7 @@ type 0309, grid 2.5 mm</description>
 <part name="H2" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-HOLE" device="3.3" package3d_urn="urn:adsk.eagle:package:14278/1"/>
 <part name="H3" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-HOLE" device="3.3" package3d_urn="urn:adsk.eagle:package:14278/1"/>
 <part name="H4" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-HOLE" device="3.3" package3d_urn="urn:adsk.eagle:package:14278/1"/>
+<part name="BAT1" library="flashing_ece_2025" deviceset="CR2450" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -15103,10 +14071,6 @@ type 0309, grid 2.5 mm</description>
 <attribute name="LAST_DATE_TIME" x="344.17" y="10.16" size="2.286" layer="94"/>
 <attribute name="SHEET" x="357.505" y="5.08" size="2.54" layer="94"/>
 </instance>
-<instance part="BT1" gate="G$1" x="68.58" y="101.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="73.66" y="106.68" size="1.778" layer="95" align="top-center"/>
-<attribute name="VALUE" x="81.28" y="101.6" size="1.778" layer="96" align="bottom-center"/>
-</instance>
 <instance part="PWR" gate="G$1" x="119.38" y="119.38" smashed="yes" rot="MR0">
 <attribute name="NAME" x="121.666" y="125.222" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="124.46" y="111.76" size="1.778" layer="96" rot="MR0"/>
@@ -15197,15 +14161,12 @@ type 0309, grid 2.5 mm</description>
 <attribute name="NAME" x="116.332" y="59.0042" size="1.778" layer="95"/>
 <attribute name="VALUE" x="116.332" y="55.9562" size="1.778" layer="96"/>
 </instance>
+<instance part="BAT1" gate="G$1" x="68.58" y="104.14" smashed="yes"/>
 </instances>
 <busses>
 </busses>
 <nets>
 <net name="GND" class="0">
-<segment>
-<pinref part="GND10" gate="1" pin="GND"/>
-<pinref part="BT1" gate="G$1" pin="-"/>
-</segment>
 <segment>
 <pinref part="GND17" gate="1" pin="GND"/>
 <pinref part="U1" gate="A" pin="GND"/>
@@ -15250,6 +14211,11 @@ type 0309, grid 2.5 mm</description>
 <pinref part="GND24" gate="1" pin="GND"/>
 <pinref part="C9" gate="G$1" pin="2"/>
 <wire x1="284.48" y1="116.84" x2="284.48" y2="124.46" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="GND10" gate="1" pin="GND"/>
+<pinref part="BAT1" gate="G$1" pin="B-"/>
+<wire x1="68.58" y1="96.52" x2="68.58" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$100" class="0">
@@ -15303,8 +14269,8 @@ type 0309, grid 2.5 mm</description>
 <wire x1="114.3" y1="116.84" x2="104.14" y2="116.84" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="116.84" x2="104.14" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="114.3" x2="68.58" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="BT1" gate="G$1" pin="+"/>
-<wire x1="68.58" y1="114.3" x2="68.58" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="114.3" x2="68.58" y2="106.68" width="0.1524" layer="91"/>
+<pinref part="BAT1" gate="G$1" pin="B+"/>
 </segment>
 </net>
 <net name="5VBUCK" class="0">
