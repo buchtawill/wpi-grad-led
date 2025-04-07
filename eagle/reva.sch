@@ -11343,12 +11343,12 @@ type 0309, grid 2.5 mm</description>
 <attribute name="NAME" x="62.23" y="59.4614" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="62.23" y="56.642" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="C4" gate="G$1" x="63.5" y="43.18" smashed="yes">
-<attribute name="NAME" x="64.516" y="43.815" size="1.778" layer="95"/>
-<attribute name="VALUE" x="64.516" y="38.989" size="1.778" layer="96"/>
+<instance part="C4" gate="G$1" x="63.5" y="27.94" smashed="yes">
+<attribute name="NAME" x="64.516" y="28.575" size="1.778" layer="95"/>
+<attribute name="VALUE" x="64.516" y="23.749" size="1.778" layer="96"/>
 </instance>
-<instance part="GND12" gate="1" x="63.5" y="35.56" smashed="yes">
-<attribute name="VALUE" x="60.96" y="33.02" size="1.778" layer="96"/>
+<instance part="GND12" gate="1" x="63.5" y="20.32" smashed="yes">
+<attribute name="VALUE" x="60.96" y="17.78" size="1.778" layer="96"/>
 </instance>
 <instance part="P+99" gate="1" x="63.5" y="76.2" smashed="yes">
 <attribute name="VALUE" x="66.04" y="78.74" size="1.778" layer="96" rot="R180"/>
@@ -13815,8 +13815,19 @@ type 0309, grid 2.5 mm</description>
 <wire x1="27.94" y1="48.26" x2="27.94" y2="54.102" width="0.1524" layer="91"/>
 <wire x1="27.94" y1="54.102" x2="50.8" y2="54.102" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="A" pin="THR"/>
-<wire x1="50.8" y1="54.102" x2="50.8" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="54.102" x2="50.8" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="40.64" x2="50.8" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="38.1" x2="48.26" y2="38.1" width="0.1524" layer="91"/>
+<pinref part="C4" gate="G$1" pin="1"/>
+<pinref part="R97" gate="G$1" pin="1"/>
+<wire x1="63.5" y1="30.48" x2="63.5" y2="40.64" width="0.1524" layer="91"/>
+<pinref part="R109" gate="G$1" pin="1"/>
+<wire x1="63.5" y1="40.64" x2="63.5" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="63.5" y1="50.8" x2="73.66" y2="50.8" width="0.1524" layer="91"/>
+<junction x="63.5" y="50.8"/>
+<wire x1="50.8" y1="40.64" x2="63.5" y2="40.64" width="0.1524" layer="91"/>
+<junction x="50.8" y="40.64"/>
+<junction x="63.5" y="40.64"/>
 </segment>
 </net>
 <net name="DIS" class="0">
@@ -13832,16 +13843,6 @@ type 0309, grid 2.5 mm</description>
 <pinref part="R109" gate="G$1" pin="2"/>
 <wire x1="63.5" y1="60.96" x2="73.66" y2="60.96" width="0.1524" layer="91"/>
 <junction x="63.5" y="60.96"/>
-</segment>
-</net>
-<net name="N$98" class="0">
-<segment>
-<pinref part="C4" gate="G$1" pin="1"/>
-<pinref part="R97" gate="G$1" pin="1"/>
-<wire x1="63.5" y1="45.72" x2="63.5" y2="50.8" width="0.1524" layer="91"/>
-<pinref part="R109" gate="G$1" pin="1"/>
-<wire x1="63.5" y1="50.8" x2="73.66" y2="50.8" width="0.1524" layer="91"/>
-<junction x="63.5" y="50.8"/>
 </segment>
 </net>
 <net name="CV" class="0">
