@@ -191,9 +191,9 @@ if __name__ == '__main__':
     
     # All coordinates in mm
     # Top left coordinates of DA1
-    top_left = (3, 44) # x, y from bottom left of PCB
-    spacing = (4.5,4.5)    
-    place_leds('./reva.brd', merged_leds, top_left, spacing)
+    # top_left = (3, 44) # x, y from bottom left of PCB
+    # spacing = (4.5,4.5)    
+    # place_leds('./reva.brd', merged_leds, top_left, spacing)
     #7.2, 44.9
     
 

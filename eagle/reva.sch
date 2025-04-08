@@ -7005,8 +7005,8 @@ wave soldering</description>
 <wire x1="1.75" y1="1.75" x2="1.75" y2="-1.75" width="0.05" layer="39"/>
 <wire x1="1.75" y1="-1.75" x2="-1.75" y2="-1.75" width="0.05" layer="39"/>
 <wire x1="-1.75" y1="-1.75" x2="-1.75" y2="1.75" width="0.05" layer="39"/>
-<smd name="1" x="-1.1" y="0" dx="0.8" dy="2.7" layer="1"/>
-<smd name="2" x="1.1" y="0" dx="0.8" dy="2.7" layer="1"/>
+<smd name="1" x="-1.3" y="0" dx="1" dy="2.7" layer="1"/>
+<smd name="2" x="1.3" y="0" dx="1" dy="2.7" layer="1"/>
 </package>
 </packages>
 <symbols>
@@ -10234,8 +10234,6 @@ type 0309, grid 2.5 mm</description>
 <part name="C8" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:6240337/1" value="10u"/>
 <part name="GND22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND23" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C9" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:6240337/1" value="10u"/>
-<part name="GND24" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="SJ1" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ" device="" package3d_urn="urn:adsk.eagle:package:15471/1"/>
 <part name="P+102" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="R109" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:6240564/1" value="75k"/>
@@ -14132,13 +14130,6 @@ type 0309, grid 2.5 mm</description>
 <instance part="GND23" gate="1" x="274.32" y="114.3" smashed="yes">
 <attribute name="VALUE" x="271.78" y="111.76" size="1.778" layer="96"/>
 </instance>
-<instance part="C9" gate="G$1" x="284.48" y="129.54" smashed="yes">
-<attribute name="NAME" x="285.496" y="130.175" size="1.778" layer="95"/>
-<attribute name="VALUE" x="285.496" y="125.349" size="1.778" layer="96"/>
-</instance>
-<instance part="GND24" gate="1" x="284.48" y="114.3" smashed="yes">
-<attribute name="VALUE" x="281.94" y="111.76" size="1.778" layer="96"/>
-</instance>
 <instance part="SJ1" gate="1" x="294.64" y="142.24" smashed="yes" rot="R90">
 <attribute name="NAME" x="292.1" y="139.7" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="298.45" y="139.7" size="1.778" layer="96" rot="R90"/>
@@ -14209,17 +14200,12 @@ type 0309, grid 2.5 mm</description>
 <wire x1="274.32" y1="116.84" x2="274.32" y2="124.46" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="GND24" gate="1" pin="GND"/>
-<pinref part="C9" gate="G$1" pin="2"/>
-<wire x1="284.48" y1="116.84" x2="284.48" y2="124.46" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="GND10" gate="1" pin="GND"/>
 <pinref part="BAT1" gate="G$1" pin="B-"/>
 <wire x1="68.58" y1="96.52" x2="68.58" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$100" class="0">
+<net name="L1" class="0">
 <segment>
 <pinref part="U1" gate="A" pin="L1"/>
 <pinref part="L1" gate="G$1" pin="1"/>
@@ -14227,7 +14213,7 @@ type 0309, grid 2.5 mm</description>
 <wire x1="220.98" y1="154.94" x2="228.6" y2="154.94" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$101" class="0">
+<net name="L2" class="0">
 <segment>
 <pinref part="U1" gate="A" pin="L2"/>
 <wire x1="251.46" y1="142.24" x2="254" y2="142.24" width="0.1524" layer="91"/>
@@ -14283,18 +14269,14 @@ type 0309, grid 2.5 mm</description>
 <wire x1="254" y1="137.16" x2="251.46" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="254" y1="137.16" x2="264.16" y2="137.16" width="0.1524" layer="91"/>
 <junction x="254" y="137.16"/>
-<pinref part="C9" gate="G$1" pin="1"/>
 <wire x1="264.16" y1="137.16" x2="274.32" y2="137.16" width="0.1524" layer="91"/>
-<wire x1="274.32" y1="137.16" x2="284.48" y2="137.16" width="0.1524" layer="91"/>
-<wire x1="284.48" y1="132.08" x2="284.48" y2="137.16" width="0.1524" layer="91"/>
-<junction x="284.48" y="137.16"/>
 <pinref part="C8" gate="G$1" pin="1"/>
 <wire x1="274.32" y1="132.08" x2="274.32" y2="137.16" width="0.1524" layer="91"/>
 <junction x="274.32" y="137.16"/>
 <pinref part="C2" gate="G$1" pin="1"/>
 <wire x1="264.16" y1="132.08" x2="264.16" y2="137.16" width="0.1524" layer="91"/>
 <junction x="264.16" y="137.16"/>
-<wire x1="284.48" y1="137.16" x2="294.64" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="137.16" x2="294.64" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="SJ1" gate="1" pin="1"/>
 </segment>
 </net>
