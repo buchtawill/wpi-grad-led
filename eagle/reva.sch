@@ -10242,7 +10242,7 @@ type 0309, grid 2.5 mm</description>
 <part name="H3" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-HOLE" device="3.3" package3d_urn="urn:adsk.eagle:package:14278/1"/>
 <part name="H4" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-HOLE" device="3.3" package3d_urn="urn:adsk.eagle:package:14278/1"/>
 <part name="BAT1" library="flashing_ece_2025" deviceset="CR2450" device=""/>
-<part name="R76" library="adafruit" deviceset="R-US_" device="R0603" value="680k"/>
+<part name="R76" library="adafruit" deviceset="R-US_" device="R0603" value="71k"/>
 <part name="R110" library="adafruit" deviceset="R-US_" device="R0603" value="75k"/>
 <part name="GND24" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 </parts>
@@ -14067,6 +14067,9 @@ type 0309, grid 2.5 mm</description>
 <plain>
 <text x="302.26" y="10.16" size="6.4516" layer="94">PWR</text>
 <text x="215.9" y="93.98" size="2.54" layer="97">R76 = R110 * ((Vout/0.5)-1)</text>
+<text x="274.32" y="147.32" size="2.54" layer="97">R76
+680k for 5V
+71k for 2.68V</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="0" y="0" smashed="yes">
@@ -14341,6 +14344,10 @@ type 0309, grid 2.5 mm</description>
 </schematic>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.2" severity="warning">
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
